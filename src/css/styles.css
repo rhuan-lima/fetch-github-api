@@ -136,6 +136,25 @@ main {
   box-shadow: 2px 2px 10px 7px rgba(0,0,0,0.08);
 }
 
+.events {
+  background-color: #eeeeee;
+  padding: 30px;
+}
+
+.events h2 {
+  padding-bottom: 25px;
+  font-weight: 700;
+}
+
+.events li {
+  padding: 10px;
+}
+
+.events-repo-name {
+  font-weight: 700;
+  padding: 15px;
+}
+
 /* REPOSITORIES */
 
 .container .profile-data .repositories h2{
